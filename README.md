@@ -1,8 +1,4 @@
 <h3 align="center">A passionate developer from the United States</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=derekShaheen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
-</div>
 <br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
