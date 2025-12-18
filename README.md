@@ -1,52 +1,74 @@
-<h3 align="center">A passionate developer from the United States</h3>
-<br/>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-<br/>
+<h2 align="center">Systems-focused senior software engineer</h2>
+
+<p align="center">
+I design and build deterministic systems that operate under real-world constraints —  
+from high-volume data pipelines to game AI, simulations, and tooling.
+</p>
+
+---
+
+## 🧠 What I Work On
+
+I specialize in turning complex, constraint-heavy problems into maintainable, observable systems.
+
+- Backend-heavy application logic and data pipelines
+- Performance-critical SQL and data modeling
+- Simulation, automation, and AI decision systems
+- Developer tooling and visualization for debugging complex behavior
+
+My professional work involves real world large-scale operational systems.  
+Public repositories focus on tooling, simulations, and exploratory systems.
+
+## 🧩 Public Work Themes
+
+### Systems & Data Engineering
+- High-throughput SQL Server development
+- Data validation, sequencing, and state management
+- Set-based refactors of legacy procedural logic
+- Observability-driven design (debug flags, traceability, visual validation)
+
+### Simulation, AI & Automation
+- Unity-based AI behavior systems (navigation, avoidance, prioritization)
+- Swarm and group behavior modeling
+- Runtime patching and instrumentation (Harmony / BepInEx)
+- Deterministic decision logic over heuristic black boxes
+
+### Visualization & Exploration
+- Browser-based simulations (Canvas / WebGL)
+- Shader-driven visual debugging
+- Interactive tools to reason about invisible systems
+
+## ⚙️ Engineering Principles
+
+- Deterministic systems are easier to debug than clever ones
+- Make behavior visible before optimizing it
+- Replace procedural sprawl with data-driven pipelines
+- Prefer correctness and observability over premature abstraction
+- Refactor toward simplicity, not minimal lines of code
+
+## 🛠️ Tools & Technologies
+
+### Languages & Runtimes
+C# · SQL · Python · Lua · Bash
+
+### Data & Backend
+SQL Server · PostgreSQL · MySQL · Oracle · SQLite  
+High-volume stored procedures · query optimization · schema design
+
+### Game & Simulation
+Unity · ECS concepts · Harmony · BepInEx  
+AI navigation · behavior systems · procedural logic
+
+### Visualization & Web
+HTML · CSS · Canvas · WebGL · Shaders
+
+### Infrastructure & Tooling
+Linux · Azure · Git · GitLab · CI/CD  
+Developer tooling · automation · scripting
+
+## 📂 What You’ll Find Here
+
+- Simulation and visualization experiments
+- Game automation and AI behavior tooling
+- Performance-oriented refactors and utilities
+- Exploratory projects for testing system ideas
