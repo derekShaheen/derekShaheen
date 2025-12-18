@@ -5,8 +5,6 @@ I design and build deterministic systems that operate under real-world constrain
 from high-volume data pipelines to game AI, simulations, and tooling.
 </p>
 
----
-
 ## 🧠 What I Work On
 
 I specialize in turning complex, constraint-heavy problems into maintainable, observable systems.
